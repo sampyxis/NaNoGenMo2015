@@ -1,4 +1,4 @@
-# Some notes
+### Some notes
 
 Using https://github.com/catseye/The-Swallows as an inspiration
 
